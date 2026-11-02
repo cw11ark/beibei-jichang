@@ -1,4 +1,4 @@
-# 贝贝云机场｜半年付 ¥129.90（100G/月）（2026-10-28 更新）
+# 贝贝云机场｜半年付 ¥129.90（100G/月）（2026-11-02 更新）
 
 > **一句话评价：设备多、协议新，但门槛也高：半年付起步，没有月付**
 >
@@ -74,15 +74,16 @@
 
 ## 更新
 
+- **2026-11-02** — 套餐与公告复核：无变化（重跑建仓入口 dry-run 通过，价格未动）。
 - **2026-10-25** — 建仓。后台套餐价、公告限制、第三方测评报价差异首次核对。
 
 ---
-*本站无全节点测速数据（未购订阅，测不到节点）。价格与限制取自官网后台，快照 2026-10-28。*
+*本站无全节点测速数据（未购订阅，测不到节点）。价格与限制取自官网后台，快照 2026-11-02。*
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
-- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
-- [赛博云 测评](https://github.com/cw11ark/saiboyun-jichang)
-- [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
+- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
+- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
+- [赛博云 测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)
+- [赔钱机场 测评](https://github.com/REPLACE_OWNER/peiqian-jichang)
 </details>
