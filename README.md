@@ -2,7 +2,7 @@
 
 > **一句话评价：设备多、协议新，但门槛也高：半年付起步，没有月付**
 >
-> 👉 **[官网注册](https://2beibei.com/register?code=tYdL5jFF)** · 半年付 ¥129.90 起，折 ¥21.65/月；走本文链接注册双方都有奖励。
+> 👉 **[官网注册](https://2beibei.com/register?code=tYdL5jFF)** · 半年付 ¥129.90 起，折 ¥21.65/月。
 
 **适合：**
 
@@ -70,7 +70,7 @@
 
 ## 注册
 
-👉 **[官网注册](https://2beibei.com/register?code=tYdL5jFF)** · 半年付 ¥129.90 起，折 ¥21.65/月；走本文链接注册双方都有奖励。
+👉 **[官网注册](https://2beibei.com/register?code=tYdL5jFF)** · 半年付 ¥129.90 起，折 ¥21.65/月。
 
 ## 更新
 
